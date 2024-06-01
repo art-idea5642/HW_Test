@@ -39,5 +39,4 @@ public class CalculatorController {
     public String divide(int num1, int num2) {
         return num1+ " / " + num2 + " = " + calculatorService.divide(num1, num2);
     }
-
 }
