@@ -35,3 +35,7 @@ build/
 /.mvn/wrapper/maven-wrapper.properties
 /src/main/resources/application.properties
 /src/test/java/com/art/calculator/CalculatorApplicationTests.java
+/calculator/src/main/resources/application.properties
+/calculator/.mvn/wrapper/maven-wrapper.properties
+/calculator/mvnw
+/calculator/mvnw.cmd
